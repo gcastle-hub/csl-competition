@@ -25,6 +25,9 @@ The organizing team consists of experts with a range of different backgrounds fr
 
  is an Associate Professor in the College of Computer Science and Technology, Zhejiang University. He received his Ph.D. in the Department of Computer Science and Technology at Tsinghua University in 2019. He was a visiting scholar with Prof. Susan Athey’s Group at Stanford University. His main research interests include Causal Inference, Data Mining, and Causality Inspired Machine Learning. He has published more than 70 papers in prestigious conferences and journals in data mining and machine learning, including TKDE, TPAMI, ICML, NeurIPS, KDD, ICDE, WWW, MM, DMKD, Engineering, etc. He received ACM SIGAI China Rising Star Award in 2022. 
 
+### Quanyu Dai, Principal Engineer 
+
+is a Principal Engineer at Huawei Noah’s Ark Lab, Shenzhen, China. He received the B.Eng. degree from Shanghai Jiao Tong University, in 2015, and the Ph.D. degree at the Department of Computing, The Hong Kong Polytechnic University, in 2020. His research interests include recommender systems, causal inference, and graph representation learning. He has publications appeared in the top-tier journals and conferences, such as TKDE, TNNLS, KDD, WWW, AAAI, and ICLR. He also serves as reviewer or program committee member in various journals and conferences.
 
 ### Jiale Zheng, Senior Engineer
 
@@ -38,9 +41,7 @@ The organizing team consists of experts with a range of different backgrounds fr
 
 ### Junjian Ye, Senior Engineer 
 
-
  is a Senior Engineer with the Huawei Noah’Ark Lab, Shenzhen, China. He received the M.S. degree in Engineering Physics from Tsinghua University, Beijing, China, in 2016. He has published works in various journals and conferences, including AAAI and IJCAI. His research interest includes machine learning, anomaly detection, and causal inference. 
-
 
 
 ![](../assets/img/clients/client-01.png)    ![](../assets/img/clients/client-04.png)    ![](../assets/img/clients/client-02.png)    ![](../assets/img/clients/client-03.png)
