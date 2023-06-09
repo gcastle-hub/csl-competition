@@ -49,8 +49,12 @@ h5 {
     text-align: center;
 }
 
-h1, h2 {
-    font-size: xx-large ;
+h1 {
+    font-size: xxx-large;
+}
+
+h2 {
+    font-size: xx-large;
 }
 
 h2 {
@@ -295,6 +299,7 @@ img {
     text-align: center;
     font-family: Bell MT;
     font-weight: bold;
+    display: flex;
 }
 
 .description_back {
