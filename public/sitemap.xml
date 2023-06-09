@@ -2,35 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/</loc>
+    <loc>https://gcastle-hub.github.io/csl-competition/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/post/2015-07-23-lorem-ipsum/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+    <loc>https://gcastle-hub.github.io/csl-competition/contact/</loc>
   </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/tags/markdown/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+    <loc>https://gcastle-hub.github.io/csl-competition/dataset/</loc>
   </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/post/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+    <loc>https://gcastle-hub.github.io/csl-competition/evaluation/</loc>
   </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/tags/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+    <loc>https://gcastle-hub.github.io/csl-competition/organizers/</loc>
   </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/contact/</loc>
+    <loc>https://gcastle-hub.github.io/csl-competition/prize/</loc>
   </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/dataset/</loc>
+    <loc>https://gcastle-hub.github.io/csl-competition/rules/</loc>
   </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/evaluation/</loc>
+    <loc>https://gcastle-hub.github.io/csl-competition/schedule/</loc>
   </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/organizers/</loc>
-  </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/prize/</loc>
-  </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/rules/</loc>
-  </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/schedule/</loc>
-  </url><url>
-    <loc>https://embeddedgirl.github.io/causaldiscovery-competition/submission/</loc>
+    <loc>https://gcastle-hub.github.io/csl-competition/submission/</loc>
   </url>
 </urlset>

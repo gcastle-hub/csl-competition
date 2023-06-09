@@ -1,14 +1,14 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "NeurIPS 2023 | CSL Competition",
-  "home_page_url": "https://embeddedgirl.github.io/causaldiscovery-competition",
-  "feed_url": "https://embeddedgirl.github.io/causaldiscovery-competitionfeed.json",
+  "home_page_url": "https://gcastle-hub.github.io/csl-competition",
+  "feed_url": "https://gcastle-hub.github.io/csl-competitionfeed.json",
   "description": "Causal Structure Learning from Event Sequences and Prior Knowledge",
-  "favicon": "https://embeddedgirl.github.io/causaldiscovery-competition/assets/favicon.ico",
+  "favicon": "https://gcastle-hub.github.io/csl-competition/assets/favicon.ico",
   "expired": false,
   "author": {
     "name": "Calvin Tran",
-    "url": "https://embeddedgirl.github.io/causaldiscovery-competition"
+    "url": "https://gcastle-hub.github.io/csl-competition"
   },
   "items": [
     
