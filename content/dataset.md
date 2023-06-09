@@ -58,6 +58,7 @@ Table 1: Dataset assignment over competition phases.
 
 + **Example:** see Figure 3  
 
-  ![alt Figure 3: RCA Prior](../assets/img/rca_prior.png "Figure 3: RCA Prior")  ##### Figure 3 
+  ![alt Figure 3: RCA Prior](../assets/img/rca_prior.png "Figure 3: RCA Prior")  
+  ##### Figure 3 
 
 It’s essential to note that each dataset is causally independent of others, hence it’s not suitable to do any information exchange among these datasets when executing causal discovery tasks.

@@ -49,8 +49,12 @@ h5 {
     text-align: center;
 }
 
-h1, h2 {
-    font-size: xx-large ;
+h1 {
+    font-size: xxx-large;
+}
+
+h2 {
+    font-size: xx-large;
 }
 
 h2 {
@@ -99,6 +103,12 @@ blockquote {
 a,
 a:visited {
     color: inherit;
+}
+h1 {
+  color: #0c2e8a;
+}
+h1 span {
+  color: #51d8af;
 }
 
 a:hover,
@@ -293,13 +303,14 @@ img {
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: "Times New Roman", Times, serif;
+    font-family: Bell MT;
     font-weight: bold;
-    color: white;
+//     display: flex;
+
 }
 
-.description_back {
-    background-color:#00C2A8;
-    border-radius: 15px;
-    background-image: url('assets/img/back.png');
-}
+// .description_back {
+//     background-color:#000080;
+//     border-radius: 15px;
+// //     background-image: url('assets/img/back.png');
+// }
