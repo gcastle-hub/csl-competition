@@ -20,9 +20,9 @@ theme = 'maverick'
 
 [menu]
   [[menu.main]]
-    identifier = "Overview"
-    name = "Overview"
-    title = "Overview"
+    identifier = "Home"
+    name = "Home"
+    title = "Home"
     url = "/"
     weight = 10
    [[menu.main]]
@@ -31,12 +31,24 @@ theme = 'maverick'
     title = "Submission"
     url = "/Submission/"
     weight = 20
+   [[menu.main]]
+    identifier = "Rules"
+    name = "Rules"
+    title = "Rules"
+    url = "/Rules/"
+    weight = 30
   [[menu.main]]
     identifier = "Organizers"
     name = "Organizers"
     title = "Organizers"
     url = "/Organizers/"
-    weight = 30
+    weight = 40
+  [[menu.main]]
+    identifier = "Contact"
+    name = "Contact"
+    title = "Contact"
+    url = "/Contact/"
+    weight = 50
 
 [markup]
   [markup.goldmark.renderer]

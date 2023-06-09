@@ -50,7 +50,7 @@ h5 {
 }
 
 h1 {
-    font-size: xx-large;
+    font-size: xxx-large;
 }
 
 h2 {
@@ -103,6 +103,12 @@ blockquote {
 a,
 a:visited {
     color: inherit;
+}
+h1 {
+  color: #0c2e8a;
+}
+h1 span {
+  color: #51d8af;
 }
 
 a:hover,
@@ -299,12 +305,12 @@ img {
     text-align: center;
     font-family: Bell MT;
     font-weight: bold;
-    display: flex;
-    color: white;
+//     display: flex;
+
 }
 
-.description_back {
-    background-color:#000080;
-    border-radius: 15px;
-//     background-image: url('assets/img/back.png');
-}
+// .description_back {
+//     background-color:#000080;
+//     border-radius: 15px;
+// //     background-image: url('assets/img/back.png');
+// }
