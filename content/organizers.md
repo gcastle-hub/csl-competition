@@ -44,3 +44,8 @@ The organizing team consists of experts with a range of different backgrounds fr
 
 
 ![](../assets/img/clients/client-01.png)    ![](../assets/img/clients/client-04.png)    ![](../assets/img/clients/client-02.png)    ![](../assets/img/clients/client-03.png)
+
+## Contact
+
+
+[noahlabcausal@huawei.com](mailto:noahlabcausal@huawei.com)

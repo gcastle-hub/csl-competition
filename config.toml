@@ -25,54 +25,18 @@ theme = 'maverick'
     title = "Overview"
     url = "/"
     weight = 10
-  [[menu.main]]
-    identifier = "Rules"
-    name = "Rules"
-    title = "Rules"
-    url = "/Rules/"
-    weight = 20
-  [[menu.main]]
-    identifier = "Dataset"
-    name = "Dataset"
-    title = "Dataset"
-    url = "/Dataset/"
-    weight = 30
-  [[menu.main]]
-    identifier = "Evaluation"
-    name = "Evaluation"
-    title = "Evaluation"
-    url = "/Evaluation/"
-    weight = 40
    [[menu.main]]
     identifier = "Submission"
     name = "Submission"
     title = "Submission"
     url = "/Submission/"
-    weight = 50
-  [[menu.main]]
-    identifier = "Prize"
-    name = "Prize"
-    title = "Prize"
-    url = "/Prize/"
-    weight = 60
-  [[menu.main]]
-    identifier = "Schedule"
-    name = "Schedule"
-    title = "Schedule"
-    url = "/Schedule/"
-    weight = 70
+    weight = 20
   [[menu.main]]
     identifier = "Organizers"
     name = "Organizers"
     title = "Organizers"
     url = "/Organizers/"
-    weight = 80
-  [[menu.main]]
-    identifier = "Contact"
-    name = "Contact"
-    title = "Contact"
-    url = "/Contact/"
-    weight = 90
+    weight = 30
 
 [markup]
   [markup.goldmark.renderer]
