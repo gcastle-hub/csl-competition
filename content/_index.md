@@ -106,9 +106,6 @@ Our competition will provide cash prizes and electrical certificates for winners
 
 ## Schedule
 
-
-### Schedule and readiness (tentative)
-
 +   August 1, 2023: Competition opens.
 +   August 8, 2023: The phase 1 starts and submission systems open.
 +   September 30, 2023: Registration and team formation ends.
