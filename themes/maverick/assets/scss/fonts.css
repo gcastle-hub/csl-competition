@@ -1,0 +1,27 @@
+@font-face
+{
+    font-family: FreeSerif;
+    src: url(../fonts/FreeSerif-small.woff);
+}
+
+@font-face
+{
+    font-family: FreeSerif;
+    src: url(../fonts/FreeSerifItalic-small.woff);
+    font-style: italic;
+}
+
+@font-face
+{
+    font-family: FreeSerif;
+    src: url(../fonts/FreeSerifBoldItalic-small.woff);
+    font-style: italic;
+    font-weight: bold;
+}
+
+@font-face
+{
+    font-family: FreeSerif;
+    src: url(../fonts/FreeSerifBold-small.woff);
+    font-weight: bold;
+}

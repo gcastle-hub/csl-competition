@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Liste - https://embeddedgirl.github.io/causaldiscovery-competition">
+    <title>Rules | NeurIPS 2023 | CSL Competition</title>
+    <meta name="description" content="Causal Structure Learning from Event Sequences and Prior Knowledge">
+    <meta property="og:title" content="Rules" />
+<meta property="og:description" content="This competition is supported by the Huawei Noah’s Ark Lab, which assists the competition’s execution and is responsible for the award’s disbursement to the competition winners. This competition is public, but the competition committee approves each user’s request to participate and may elect to disallow participation according to its own considerations. Users: Each participant must create a HUAWEI CLOUD account to submit their results or algorithm for the competition. Only one account per user is allowed." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://embeddedgirl.github.io/causaldiscovery-competition/rules/" /><meta property="article:section" content="" />
+
+
+
+    <meta itemprop="name" content="Rules">
+<meta itemprop="description" content="This competition is supported by the Huawei Noah’s Ark Lab, which assists the competition’s execution and is responsible for the award’s disbursement to the competition winners. This competition is public, but the competition committee approves each user’s request to participate and may elect to disallow participation according to its own considerations. Users: Each participant must create a HUAWEI CLOUD account to submit their results or algorithm for the competition. Only one account per user is allowed.">
+
+<meta itemprop="wordCount" content="535">
+<meta itemprop="keywords" content="" />
+    
+    <link rel="canonical" href="https://embeddedgirl.github.io/causaldiscovery-competition/rules/">
+    <link rel="icon" href="https://embeddedgirl.github.io/causaldiscovery-competition/assets/favicon.ico">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
+    <link href="https://www.google-analytics.com" rel="preconnect" crossorigin>
+    <link rel="alternate" type="application/atom+xml" title="NeurIPS 2023 | CSL Competition" href="https://embeddedgirl.github.io/causaldiscovery-competition/atom.xml" />
+    <link rel="alternate" type="application/json" title="NeurIPS 2023 | CSL Competition" href="https://embeddedgirl.github.io/causaldiscovery-competition/feed.json" />
+    <link rel="shortcut icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=">
+    
+    
+    <style>*,:after,:before{box-sizing:border-box;padding:0}body{font:1rem/1.5 '-apple-system',BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding:2rem;background:#fff;color:#000}p{line-height:1.6}.skip-link{position:absolute;top:-40px;left:0;background:#eee;z-index:100}.skip-link:focus{top:0}h1,h2,h3,h4,b{font-size:x-large;font-weight:600}.content,h5{font-size:large;font-weight:400}h5{justify-content:center;align-items:center;text-align:center}h1,h2{font-size:xx-large}h2{color:#2196f3}header{line-height:2;padding-bottom:1.5rem}table,table tr th,table tr td{border:1px solid #ccc}table{width:500px;border-collapse:collapse;cellpadding:0;cellspacing:0;justify-content:center;align-items:center;text-align:center}.link{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none}.time{font-variant-numeric:tabular-nums;white-space:nowrap}blockquote{border-left:5px solid #eee;padding-left:1rem;margin:0}a,a:visited{color:inherit}a:hover,a.heading-link{text-decoration:none}pre{padding:.5rem;overflow:auto;overflow-x:scroll;overflow-wrap:normal}code,pre{font-family:San Francisco Mono,Monaco,consolas,lucida console,dejavu sans mono,bitstream vera sans mono,monospace;font-size:normal;font-size:small;background:#eee}code{margin:.1rem;border:none}ul{list-style-type:disc}ul li li{list-style-type:circle}ul,ol{padding-left:1.2rem}.list{line-height:2;list-style-type:none;padding-left:0}.list li{padding-bottom:.1rem}.meta{color:#777}.content{max-width:110ch;margin:0 auto}header{line-height:2;display:flex;justify-content:space-between;padding-bottom:1rem}header a{text-decoration:none}header ul{list-style-type:none;padding:0}header li,header a,a{display:inline}section a,p a{color:#2a7ae2;text-decoration:none}a:hover{text-decoration:underline;color:#2196f3}h2.post{padding-top:.5rem}header ul a:first-child{padding-left:1rem}.nav{height:1px;background:#000;content:'';max-width:10%}.list li{display:flex;align-items:baseline}.list li time{flex:initial}.hr-list{margin-top:0;margin-bottom:0;margin-right:.5rem;margin-left:.5rem;height:1px;border:0;border-bottom:2.5px dotted #ccc;flex:1 0 1rem}.m,hr{border:3;margin:3rem 10px 0}img{max-width:100%;height:auto}.post-date{margin:5% 0}.index-date{color:#9a9a9a}.animate-blink{animation:opacity 1s infinite;opacity:1}@keyframes opacity{0%{opacity:1}50%{opacity:.5}100%{opacity:0}}.tags{display:flex;justify-content:space-between}.tags ul{padding:0;margin:0}.tags li{display:inline}.avatar{height:120px;width:120px;position:relative;margin:-10px 0 0 15px;float:right;border-radius:50%}.title-content{height:220px;width:110ch;margin:20px auto;justify-content:center;align-items:center;text-align:center;font-family:FreeSerif,serif;font-weight:700}.description_back{background-color:#dfe0df;border-radius:15px} </style>
+  
+    
+  
+  
+  <script type="application/ld+json">
+  {
+      "@context": "http://schema.org",
+      "@type": "BlogPosting",
+      "articleSection": "",
+      "name": "Rules",
+      "headline": "Rules",
+      "alternativeHeadline": "",
+      "description": "This competition is supported by the Huawei Noah’s Ark Lab, which assists the competition’s execution and is responsible for the award’s disbursement to the competition winners. This competition is public, but the competition committee approves each user’s request to participate and may elect to disallow participation according to its own considerations. Users: Each participant must create a HUAWEI CLOUD account to submit their results or algorithm for the competition. Only one account per user is allowed.",
+      "inLanguage": "en-us",
+      "isFamilyFriendly": "true",
+      "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https:\/\/embeddedgirl.github.io\/causaldiscovery-competition\/rules\/"
+      },
+      "author" : {
+          "@type": "Person",
+          "name": ""
+      },
+      "creator" : {
+          "@type": "Person",
+          "name": ""
+      },
+      "accountablePerson" : {
+          "@type": "Person",
+          "name": ""
+      },
+      "copyrightHolder" : "NeurIPS 2023 | CSL Competition",
+      "copyrightYear" : "0001",
+      "dateCreated": "0001-01-01T00:00:00.00Z",
+      "datePublished": "0001-01-01T00:00:00.00Z",
+      "dateModified": "0001-01-01T00:00:00.00Z",
+      "publisher":{
+          "@type":"Organization",
+          "name": "NeurIPS 2023 | CSL Competition",
+          "url": "https://embeddedgirl.github.io/causaldiscovery-competition",
+          "logo": {
+              "@type": "ImageObject",
+              "url": "https:\/\/embeddedgirl.github.io\/assets\/favicon.ico",
+              "width":"32",
+              "height":"32"
+          }
+      },
+      "image": "https://embeddedgirl.github.io/assets/favicon.ico",
+      "url" : "https:\/\/embeddedgirl.github.io\/causaldiscovery-competition\/rules\/",
+      "wordCount" : "535",
+      "genre" : [ ],
+      "keywords" : [ ]
+  }
+  </script>
+  
+  </head>
+
+<body>
+  <a class="skip-link" href="#main">Skip to main</a>
+  <main id="main">
+  <div class="content">
+    <header>
+<p style="padding: 0;margin: 0;">
+  <a href="http://dev3.noahlab.com.hk">
+    <b>NeurIPS 2023 | CSL Competition</b>
+
+  </a>
+</p>
+<ul style="padding: 0;margin: 0;">
+  
+  
+  <li class="">
+    <a href="/causaldiscovery-competition/"><span>Overview</span></a>
+    
+  <li class="">
+    <a href="/causaldiscovery-competition/rules/"><span>Rules</span></a>
+    
+  <li class="">
+    <a href="/causaldiscovery-competition/dataset/"><span>Dataset</span></a>
+    
+  <li class="">
+    <a href="/causaldiscovery-competition/evaluation/"><span>Evaluation</span></a>
+    
+  <li class="">
+    <a href="/causaldiscovery-competition/submission/"><span>Submission</span></a>
+    
+  <li class="">
+    <a href="/causaldiscovery-competition/prize/"><span>Prize</span></a>
+    
+  <li class="">
+    <a href="/causaldiscovery-competition/schedule/"><span>Schedule</span></a>
+    
+  <li class="">
+    <a href="/causaldiscovery-competition/organizers/"><span>Organizers</span></a>
+    
+  <li class="">
+    <a href="/causaldiscovery-competition/contact/"><span>Contact</span></a>
+    
+  </li>
+</ul>
+</header>
+<hr class="hr-list" style="padding: 0;margin: 0;">
+    <section>
+      <h2 class="post">Rules</h2>
+      <ul>
+<li>This competition is supported by the Huawei Noah’s Ark Lab, which assists the competition’s execution and is responsible for the award’s disbursement to the competition winners.</li>
+<li>This competition is public, but the competition committee approves each user’s request to participate and may elect to disallow participation according to its own considerations.</li>
+<li>Users: Each participant must create a HUAWEI CLOUD account to submit their results or algorithm for the competition. Only one account per user is allowed.</li>
+<li>If you are entering as a representative of a company, educational institution, or other legal entity, or on behalf of your employer, these rules are binding for you individually and/or for the entity you represent or are an employee of. If you are acting within the scope of your employment as an employee, contractor, or agent of another party, you affirm that such party has full knowledge of your actions and has consented thereof, including your potential receipt of a prize. You further affirm that your actions do not violate your employer’s or entity’s policies and procedures.</li>
+<li>Teams: Each participant must join one and only one team. The maximum number of participants in each team is up to 3. Each team member must be a single individual operating a separate HUAWEI CLOUD account. Team formation requests will not be permitted after the date specified on the competition website. The total submissions of all the participants in a team must be less than or equal to the maximum number allowed for a team.</li>
+<li>Team mergers are allowed and can be performed by the team leader. Team merger requests will not be permitted after the &ldquo;Team mergers deadline&rdquo; if such a deadline is listed on the competition website. In order to merge, the combined team must have a total submission count less than or equal to the maximum allowed for a single team. The organizers don’t provide any assistance regarding team mergers.</li>
+<li>External data: It’s forbidden to use a new dataset other than the software and data provided by the competition organizer to develop and test your algorithm and submissions.</li>
+<li>Upon being awarded a prize:
+<ul>
+<li>The prize winner must agree to submit and deliver a technical presentation of their solution to the competition organizer.</li>
+<li>The prize winner must deliver to the competition organizer the software and data created for the purpose of the competition and used to generate the winning submission and associated documentation written in English. The delivered software and data must be capable of regenerating the winning submission and contain a description of the resources required to build and run the regenerated submission successfully. The prize winner shall sign and return all prize acceptance documents requested by the competition organizer.</li>
+</ul>
+</li>
+<li>If a team wins a monetary prize, the competition organizer will allocate the prize money in even shares between team members unless the team members unanimously contact the competition organizer to request an alternative prize distribution within three business days of the submission deadline.</li>
+</ul>
+<p>These rules are an initial set, and we require participants to consent to a change of rules if there is an urgent need during registration. If a situation should arise that was not anticipated, we will implement a fair solution, ideally using consensus of participants.</p>
+
+      
+    </section>
+    
+  </div>
+</main>
+</body>
+</html>
