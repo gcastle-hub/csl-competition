@@ -1,5 +1,5 @@
 baseURL = "https://gcastle-hub.github.io/csl-competition"
-title = "NeurIPS 2023 | CSL Competition"
+title = "NeurIPS 2023 "
 languageCode = 'en-us'
 paginate = 3
 theme = 'maverick'
