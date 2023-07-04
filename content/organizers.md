@@ -45,4 +45,9 @@ The organizing team consists of experts with a range of different backgrounds fr
 
 is a Principal Engineer at Huawei Noah’s Ark Lab, Shenzhen, China. He received the B.Eng. degree from Shanghai Jiao Tong University, in 2015, and the Ph.D. degree at the Department of Computing, The Hong Kong Polytechnic University, in 2020. His research interests include recommender systems, causal inference, and graph representation learning. He has publications appeared in the top-tier journals and conferences, such as TKDE, TNNLS, KDD, WWW, AAAI, and ICLR. He also serves as reviewer or program committee member in various journals and conferences.
 
-![](../assets/img/clients/client-01.png)    ![](../assets/img/clients/client-04.png)    ![](../assets/img/clients/client-02.png)    ![](../assets/img/clients/client-03.png)
+<p align="center">
+<img style="margin-right: 40px" src="../assets/img/clients/client-01.png">
+<img style="margin-right: 50px" src="../assets/img/clients/client-04.png">
+<img style="margin-right: 53px" src="../assets/img/clients/client-02.png">
+<img style="margin-right: 50px" src="../assets/img/clients/client-03.png">
+</p>

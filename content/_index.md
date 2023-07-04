@@ -8,10 +8,7 @@ In this competition, the goal is to solve a causal structure learning problem in
 
 The competition task can be described as follows: Given a series of datasets, for each dataset, participants are supposed to use the historical alarm data, device topology, and prior knowledge (if available) to learn a causal graph for the involved alarm types. Each learned causal graph is represented by a binary adjacency matrix, where the element in the i-th row and j-th column of the matrix equals 1 (0) means the existence (resp. non-existence) of a directed edge from the alarm type i to alarm type j. The ground truth for these causal graphs, i.e. true causal graphs, are labeled manually by experts or, for the synthetic datasets, the pre-set causal assumptions. Please note that all true causal graphs will not be public during the competition. Besides, we recommend competitors design a unified learning solution(algorithm) for handling all datasets. While it’s not mandatory, the generalization of the submitted solution(algorithm) will be an important aspect of evaluating the novelty and will affect the final ranking.
 
-
-![Figure 1](assets/img/about-img.jpg)
-
-##### Figure 1: RCA solution in a telecom network
+<div style="text-align:center"><img src="assets/img/about-img.jpg" /><p>Figure 1: RCA solution in a telecom network</p></div>
 
 
 ## Dataset
@@ -61,9 +58,7 @@ Table 1: Dataset assignment over competition phases.
 
 + Example: N = 3, see Figure 2  
 
-  ![anchor Figure 2: Causal Prior](assets/img/causal_prior.png "Figure 2: Causal Prior")
-
-##### Figure 2
+<div style="text-align:center"><img src="assets/img/causal_prior.png" /><p>Figure 2: Causal Prior</p></div>
 
 **rca\_prior.npy (Optional):** Prior knowledge including some simplified fault snapshots and the corresponding RCA results.
 
@@ -73,8 +68,7 @@ Table 1: Dataset assignment over competition phases.
 
 + **Example:** see Figure 3  
 
-  ![alt Figure 3: RCA Prior](assets/img/rca_prior.png "Figure 3: RCA Prior")  
-  ##### Figure 3 
+<div style="text-align:center"><img src="assets/img/rca_prior.png" /><p>Figure 3: RCA Prior</p></div>
 
 It’s essential to note that each dataset is causally independent of others, hence it’s not suitable to do any information exchange among these datasets when executing causal discovery tasks.
 
