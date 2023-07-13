@@ -41,7 +41,7 @@ The organizing team consists of experts with a range of different backgrounds fr
 
 [//]: # ( is a Senior Engineer at Huawei Noah’s Ark Lab. He obtained his Master’s degree in 2016 at Chalmers University of Technology, Sweden. His research interests cover time series forecasting and anomaly detection, root cause analysis, and graph-related applications. He has published technical works in various journals and conferences, including KDD and ICLR. Moreover, he maintains and contributes to gCastle, an open-source causal structure toolchain. )
 
-![](../assets/img/organizers/yjj.png)
+![](../assets/img/organizers/yjj.jpg)
 <label style="color: #2196f3;"> Junjian Ye </label>(Huawei Noah’Ark Lab, Senior Engineer)
 
 

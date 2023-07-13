@@ -128,7 +128,7 @@ Our competition will provide cash prizes and electrical certificates for winners
 ![](assets/img/organizers/marcus.jpg)
 <label style="color: #2196f3;"> Marcus Kalander </label>(Huawei Noah’s Ark Lab, Senior Engineer)
 
-![](assets/img/organizers/yjj.png)
+![](assets/img/organizers/yjj.jpg)
 <label style="color: #2196f3;"> Junjian Ye </label>(Huawei Noah’Ark Lab, Senior Engineer)
 
 ![](assets/img/organizers/daiquanyu.jpg)
