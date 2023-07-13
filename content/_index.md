@@ -107,3 +107,36 @@ Our competition will provide cash prizes and electrical certificates for winners
 +   October 8, 2023: The phase 2 starts and submission systems open.
 +   October 22, 2023: Competition ends.
 +   October 30, 2023: Winning teams are announced.
+
+## Organizers
+
+![](assets/img/organizers/keli.jpg)
+<label style="color: #2196f3;"> Keli Zhang </label>(Huawei Noah’Ark Lab, Principal Engineer)
+
+![](assets/img/organizers/cairuichu.jpg)
+<label style="color: #2196f3;"> Ruichu Cai </label>(Guangdong University of Technology, Full Professor, [scholar.google](https://scholar.google.com/citations?user=gG4HJ4UAAAAJ&hl=en))
+
+![](assets/img/organizers/pan.jpg)
+<label style="color: #2196f3;"> Lujia Pan </label>(Huawei Noah’s Ark Lab, Expert)
+
+![](assets/img/organizers/kuangkun.jpg)
+<label style="color: #2196f3;"> Kun Kuang </label>(Zhejiang University, Associate Professor, [Home Page](https://kunkuang.github.io))
+
+![](assets/img/organizers/zjl.jpg)
+<label style="color: #2196f3;"> Jiale Zheng </label>(Huawei Noah’s Ark Lab, Senior Engineer)
+
+![](assets/img/organizers/marcus.jpg)
+<label style="color: #2196f3;"> Marcus Kalander </label>(Huawei Noah’s Ark Lab, Senior Engineer)
+
+![](assets/img/organizers/yjj.png)
+<label style="color: #2196f3;"> Junjian Ye </label>(Huawei Noah’Ark Lab, Senior Engineer)
+
+![](assets/img/organizers/daiquanyu.jpg)
+<label style="color: #2196f3;"> Quanyu Dai </label>(Huawei Noah’s Ark Lab, Principal Engineer)
+
+<p>
+<img style="margin-right: 40px" src="assets/img/clients/client-01.png">
+<img style="margin-right: 50px" src="assets/img/clients/client-04.png">
+<img style="margin-right: 53px" src="assets/img/clients/client-02.png">
+<img style="margin-right: 50px" src="assets/img/clients/client-03.png">
+</p>
