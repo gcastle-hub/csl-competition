@@ -60,9 +60,9 @@ Table 1: Dataset assignment over competition phases.
 
 <div style="text-align:center"><img src="assets/img/causal_prior.png" /><p>Figure 2: Causal Prior</p></div>
 
-**rca\_prior.npy (Optional):** Prior knowledge including some simplified fault snapshots and the corresponding RCA results.
+**rca\_prior.csv (Optional):** Prior knowledge including some simplified fault snapshots and the corresponding RCA results.
 
-+ **Format:** \[simpified\_snapshot, simplified\_root\_cause\]
++ **Format:** \[simplified\_snapshot, simplified\_root\_cause\]
 
 + **Description:** In the real-world RCA scenario, a fault snapshot contains detailed information on the network state (a series of alarms with occurrence time and occurrence location information) within the period a fault occurs, while simplified fault snapshots extract or compress the corresponding network state to an alarm type list ignoring the occurrence time/location and sequential information, and the corresponding RCA result is as well. Due to considering knowledge reusability, the simplified snapshots along with simplified RCA results (also can be regarded as RCA rules) are a common way to store considerable raw RCA cases in the AIOps field.
 
