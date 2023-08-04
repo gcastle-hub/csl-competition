@@ -43,7 +43,7 @@ The organizing team consists of experts with a range of different backgrounds fr
 [//]: # ( is a Senior Engineer with the Huawei Noah’Ark Lab, Shenzhen, China. He received the M.S. degree in Engineering Physics from Tsinghua University, Beijing, China, in 2016. He has published works in various journals and conferences, including AAAI and IJCAI. His research interest includes machine learning, anomaly detection, and causal inference. )
 
 
-![](assets/img/organizers/mengyue.jpg)
+![](../assets/img/organizers/mengyue.jpg)
 <label style="color: #2196f3;"> Mengyue Yang </label>(University College London)
 
 
