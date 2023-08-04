@@ -116,9 +116,6 @@ Our competition will provide cash prizes and electrical certificates for winners
 ![](assets/img/organizers/cairuichu.jpg)
 <label style="color: #2196f3;"> Ruichu Cai </label>(Guangdong University of Technology, Full Professor, [Google Scholar](https://scholar.google.com/citations?user=gG4HJ4UAAAAJ&hl=en))
 
-![](assets/img/organizers/pan.jpg)
-<label style="color: #2196f3;"> Lujia Pan </label>(Huawei Noah’s Ark Lab, Expert Researcher)
-
 ![](assets/img/organizers/kuangkun.jpg)
 <label style="color: #2196f3;"> Kun Kuang </label>(Zhejiang University, Associate Professor, [Homepage](https://kunkuang.github.io))
 
@@ -131,8 +128,14 @@ Our competition will provide cash prizes and electrical certificates for winners
 ![](assets/img/organizers/yjj.jpg)
 <label style="color: #2196f3;"> Junjian Ye </label>(Huawei Noah’Ark Lab, Senior Researcher)
 
+![](assets/img/organizers/mengyue.jpg)
+<label style="color: #2196f3;"> Mengyue Yang </label>(University College London)
+
 ![](assets/img/organizers/daiquanyu.jpg)
 <label style="color: #2196f3;"> Quanyu Dai </label>(Huawei Noah’s Ark Lab, Principal Researcher)
+
+![](assets/img/organizers/pan.jpg)
+<label style="color: #2196f3;"> Lujia Pan </label>(Huawei Noah’s Ark Lab, Expert Researcher)
 
 <p>
 <img style="margin-right: 40px" src="assets/img/clients/client-01.png">
