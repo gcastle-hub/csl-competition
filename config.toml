@@ -32,23 +32,29 @@ theme = 'maverick'
     url = "/Submission/"
     weight = 20
    [[menu.main]]
+    identifier = "Notices"
+    name = "Notices"
+    title = "Notices"
+    url = "/Notices/"
+    weight = 30
+   [[menu.main]]
     identifier = "Rules"
     name = "Rules"
     title = "Rules"
     url = "/Rules/"
-    weight = 30
+    weight = 40
   [[menu.main]]
     identifier = "Organizers"
     name = "Organizers"
     title = "Organizers"
     url = "/Organizers/"
-    weight = 40
+    weight = 50
   [[menu.main]]
     identifier = "Contact"
     name = "Contact"
     title = "Contact"
     url = "/Contact/"
-    weight = 50
+    weight = 60
 
 [markup]
   [markup.goldmark.renderer]
