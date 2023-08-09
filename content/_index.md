@@ -101,7 +101,7 @@ Our competition will provide cash prizes and electrical certificates for winners
 ## Schedule
 
 +   August 1, 2023: Competition opens.
-+   August 8, 2023: The phase 1 starts and submission systems open.
++   August 15, 2023 **(rescheduled)** : The phase 1 starts and submission systems open.
 +   September 30, 2023: Registration and team formation ends.
 +   October 1, 2023: The phase 1 ends and the submission systems close.
 +   October 8, 2023: The phase 2 starts and submission systems open.
